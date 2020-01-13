@@ -1,1 +1,1 @@
-# praktikum iz webdizajna (bootstrap) ispit jun 2019
+# praktikum webdizajn (bootstrap) ispit jun 2019
