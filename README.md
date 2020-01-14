@@ -1,1 +1,2 @@
-# praktikum webdizajn (bootstrap) ispit jun 2019
+# praktikum webdizajn jun 2019
+Project for bootstrap course at ICT College
