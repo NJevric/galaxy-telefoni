@@ -1,9 +1,6 @@
 # First bootstrap / materialize website
 Project for web design course @ ICT College
-## Technologies used
-* HTML
-* CSS, SCSS
-* XML
-* Bootstrap, Materialize
+<br/>
+<b>Date: </b>june 2019
 ## Link to website
 https://njevric.github.io/galaxy-telefoni/
